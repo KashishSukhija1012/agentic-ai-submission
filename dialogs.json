@@ -1,0 +1,22 @@
+[
+    {
+        "user": "Create an instance",
+        "agent": "Instance 'demo-instance' created successfully."
+    },
+    {
+        "user": "List instances",
+        "agent": "Instances: demo-instance"
+    },
+    {
+        "user": "Delete instance",
+        "agent": "Instance 'demo-instance' deleted."
+    },
+    {
+        "user": "List instances",
+        "agent": "No instances currently running."
+    },
+    {
+        "user": "Shutdown Mars",
+        "agent": "I'm sorry, I don't understand the request."
+    }
+]
